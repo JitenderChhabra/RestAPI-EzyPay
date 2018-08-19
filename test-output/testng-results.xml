@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9311" started-at="2018-08-19T09:56:26Z" finished-at="2018-08-19T09:56:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9311" started-at="2018-08-19T09:56:26Z" finished-at="2018-08-19T09:56:36Z">
+      <class name="com.ezypay.testscripts.LoginScenarios">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ezypay.testscripts.LoginScenarios@1794d431]" name="setUp" is-config="true" duration-ms="29" started-at="2018-08-19T09:56:26Z" finished-at="2018-08-19T09:56:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="InValidPassword()[pri:0, instance:com.ezypay.testscripts.LoginScenarios@1794d431]" name="InValidPassword" duration-ms="3333" started-at="2018-08-19T09:56:26Z" finished-at="2018-08-19T09:56:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidPassword -->
+        <test-method status="PASS" signature="InValidUserName()[pri:0, instance:com.ezypay.testscripts.LoginScenarios@1794d431]" name="InValidUserName" duration-ms="960" started-at="2018-08-19T09:56:30Z" finished-at="2018-08-19T09:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InValidUserName -->
+        <test-method status="PASS" signature="LoginWithValidCredentials()[pri:0, instance:com.ezypay.testscripts.LoginScenarios@1794d431]" name="LoginWithValidCredentials" duration-ms="657" started-at="2018-08-19T09:56:31Z" finished-at="2018-08-19T09:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredentials -->
+        <test-method status="PASS" signature="LongPassword()[pri:0, instance:com.ezypay.testscripts.LoginScenarios@1794d431]" name="LongPassword" duration-ms="628" started-at="2018-08-19T09:56:31Z" finished-at="2018-08-19T09:56:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LongPassword -->
+        <test-method status="PASS" signature="LongUserName()[pri:0, instance:com.ezypay.testscripts.LoginScenarios@1794d431]" name="LongUserName" duration-ms="664" started-at="2018-08-19T09:56:32Z" finished-at="2018-08-19T09:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LongUserName -->
+        <test-method status="PASS" signature="SpecialCharacterInPassword()[pri:0, instance:com.ezypay.testscripts.LoginScenarios@1794d431]" name="SpecialCharacterInPassword" duration-ms="1446" started-at="2018-08-19T09:56:33Z" finished-at="2018-08-19T09:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpecialCharacterInPassword -->
+        <test-method status="PASS" signature="SpecialCharacterInUserCredentials()[pri:0, instance:com.ezypay.testscripts.LoginScenarios@1794d431]" name="SpecialCharacterInUserCredentials" duration-ms="630" started-at="2018-08-19T09:56:34Z" finished-at="2018-08-19T09:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpecialCharacterInUserCredentials -->
+        <test-method status="PASS" signature="SpecialCharacterInUserName()[pri:0, instance:com.ezypay.testscripts.LoginScenarios@1794d431]" name="SpecialCharacterInUserName" duration-ms="913" started-at="2018-08-19T09:56:35Z" finished-at="2018-08-19T09:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpecialCharacterInUserName -->
+      </class> <!-- com.ezypay.testscripts.LoginScenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
